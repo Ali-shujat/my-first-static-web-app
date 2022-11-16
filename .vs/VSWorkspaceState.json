@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\src",
+    "\\tests"
   ],
-  "SelectedNode": "\\C:\\salt-azure\\my-first-static-web-app",
+  "SelectedNode": "\\src\\App.js",
   "PreviewInSolutionExplorer": false
 }
