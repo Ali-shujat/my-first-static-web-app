@@ -5,6 +5,7 @@ function App() {
     return (
         <>
         <div>{value}</div>
+        <div>To see a list of supported npm commands</div>
         </>
     );
 
